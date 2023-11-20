@@ -4,7 +4,7 @@
   "description": "Artificial Intelligence",
   "main": "index.js",
   "scripts": {
-    "storybook": "storybook dev -p --debug-webpack",
+    "storybook": "storybook dev -p -c '.storybook' --debug-webpack",
     "build-storybook": "storybook build"
   },
   "keywords": [],
