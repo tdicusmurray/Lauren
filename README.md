@@ -1,6 +1,6 @@
 # Lauren
  Artificial Intelligence
-```markdown
+
 # Lauren - Artificial Intelligence Project
 
 ![Lauren Logo](https://example.com/lauren-logo.png)
